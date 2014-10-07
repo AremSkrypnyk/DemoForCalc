@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/cglib-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/java-client-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/selenium-server-standalone-2.42.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/testng-6.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
